@@ -15,7 +15,7 @@ If any required information is not filled out, a warning will pop up:
 
 Set up to run web page:
 
-Download and unzip the RegistrationForm.zip file.
-Open in vscode.
-Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-Open the index.html and run the code (Windows shortcut key: ALT+L+O).
+1) Download and unzip the CafeMenu.zip file.
+2) Open in vscode.
+3) Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+4) Open the index.html and run the code (Windows shortcut key: ALT+L+O).
