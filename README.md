@@ -2,7 +2,7 @@
 Registration form where a user sets up a personal or business account by providing their basic background information and uploading a profile picture. Built using HTML and CSS.
 
 Registration form
-![image](https://github.com/kylehraja/RegistrationForm/assets/140476247/8c369ec6-714e-495f-9c7d-077409c3b43a)
+![2023-09-25_03h32_55](https://github.com/kylehraja/RegistrationForm/assets/140476247/d5fb9547-fe2a-4e32-bf5e-5c246984cdc7)
 
 Once done filling out your information, click the Submit button:
 ![image](https://github.com/kylehraja/RegistrationForm/assets/140476247/45d55231-a7ea-4778-9c37-2c920d28a9f2)
